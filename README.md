@@ -1,11 +1,11 @@
 Abdullah Asim | BSCS23064
 
-# PDC Assignment 2  Building Resilient Distributed Systems
+# PDC Assignment 2  "Building Resilient Distributed Systems"
 
 ## How to Run
 
 ### 1. Install Python (if not installed)
-Download from https://www.python.org/downloads/ — install version 3.11 or higher.
+Download from https://www.python.org/downloads/  install version 3.11 or higher.
 
 ### 2. Install dependencies
 Open a terminal in VS Code (Terminal → New Terminal) and run:
